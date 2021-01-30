@@ -1,4 +1,4 @@
-*Anime
-*Mangas
-*cosplaying
-*Learning new things
+* Anime
+* Mangas
+* cosplaying
+* Learning new things
