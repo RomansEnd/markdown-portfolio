@@ -1,1 +1,1 @@
-[GitHub] (https://github.com/RomansEnd)
+[GitHub](https://github.com/RomansEnd)
