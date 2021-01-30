@@ -1,4 +1,4 @@
-**this text will be bold**
-**this text will be bold**
-**this text will be bold**
-**this text will be bold**
+__* Anime__
+__* Manga__
+__*Cosplaying__
+__*Learning new things__
